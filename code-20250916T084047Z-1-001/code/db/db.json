@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "The One",
+      "singer": "Santhosh Narayanan",
+      "genre": "Vibe song",
+      "imgUrl": "https://share.google/images/iFckYvKwzeGxy5SNd",
+      "songUrl": "Songs/The One.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Ayyayo-Nenju",
+      "singer": "SP Balasubrahmanyam",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/images/cSfRSgc1agZUYSTWs",
+      "songUrl": "Songs/Ayyayo-Nenju.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Indha-Ponnungalae",
+      "singer": "Jayamoorthy",
+      "genre": "Emotional",
+      "imgUrl": "https://share.google/images/AOACmHPnVIwPoOFWi",
+      "songUrl": "Songs/Indha-Ponnungalae.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Jalabulajangu-MassTamilan.dev",
+      "singer": "Anirudh Ravichandran",
+      "genre": "Vibe song",
+      "imgUrl": "https://share.google/images/TVsS50WZW6KGl1Iwq",
+      "songUrl": "Songs/Jalabulajangu-MassTamilan.dev.mp3"
+    },
+    {
+      "id": "5",
+      "title": "Naa-Ready-MassTamilan.dev",
+      "singer": "Vijay",
+      "genre": "vibe song",
+      "imgUrl": "https://share.google/images/PpA98QSdP6XuyMeQ3",
+      "songUrl": "Songs/Naa-Ready-MassTamilan.dev.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Salambala",
+      "singer": "Sai Abhyankkar",
+      "genre": "vibe song",
+      "imgUrl": "https://share.google/images/0CZTe7fo4FBEAky4f",
+      "songUrl": "Songs/Salambala.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Sirukki-Vaasam",
+      "singer": "Anand Aravindakshan",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/images/O7dcfWzUEnB5k7j7O",
+      "songUrl": "Songs/Sirukki-Vaasam.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "id": "b088",
+      "itemId": "3",
+      "title": "Indha-Ponnungalae",
+      "imgUrl": "https://share.google/images/AOACmHPnVIwPoOFWi",
+      "genre": "Emotional",
+      "songUrl": "Songs/Indha-Ponnungalae.mp3",
+      "singer": "Jayamoorthy"
+    }
+  ],
+  "playlist": []
+}
